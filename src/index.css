@@ -1,0 +1,23 @@
+
+.myclass{
+  justify-content: space-evenly;
+  background-color: lightcyan;
+  display: flex;
+}
+.myitem{
+  background-color: aqua;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+}
+.content{
+  background-color: lightpink;
+}
+.navbar{
+  text-decoration: none;
+  padding-left: 10px;
+}
